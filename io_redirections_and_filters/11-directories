@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -tyde d -a | wc
+find . -tyde d | wc -l
