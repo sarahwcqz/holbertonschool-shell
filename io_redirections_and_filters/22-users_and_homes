@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '[\/A-Za-z]' | sort 
+grep [\/A-Za-z] | sort 
