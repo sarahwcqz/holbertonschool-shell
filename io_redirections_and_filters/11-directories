@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -tyde d -a exec wc {} +
+find . -tyde d -a | wc
